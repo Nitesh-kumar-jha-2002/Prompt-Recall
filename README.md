@@ -28,7 +28,7 @@ Renames and starred statuses are stored per chat using Chrome’s local storage 
 
 ## 🛠️ Installation
 
-1. Clone or [download this repo](https://github.com/CoderVicky23/chatGPT-extension).
+1. Clone or [download this repo](https://github.com/Nitesh-kumar-jha-2002/Prompt-Recall.git).
 2. Go to `chrome://extensions/` in your Chrome browser.
 3. Enable **Developer Mode** (top right).
 4. Click **“Load Unpacked”**, and select the project folder.
@@ -91,7 +91,7 @@ For full details, see [PRIVACY.md](./PRIVACY.md).
 
 ## 🤝 Contributing
 
-Pull requests welcome! If you find bugs or have feature suggestions, feel free to [open an issue](https://github.com/CoderVicky23/chatGPT-extension/issues).
+Pull requests welcome! If you find bugs or have feature suggestions, feel free to [open an issue](https://github.com/Nitesh-kumar-jha-2002/Prompt-Recall/issues).
 
 ---
 

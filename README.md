@@ -35,7 +35,7 @@ Renames and starred statuses are stored per chat using Chrome’s local storage 
 5. Navigate to [ChatGPT](https://chat.openai.com/).
 6. Click the extension icon in the toolbar to **activate** the prompt panel.
 
----
+--
 
 ## 🧑‍💻 How It Works
 
